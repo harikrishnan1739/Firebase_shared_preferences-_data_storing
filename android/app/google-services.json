@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12807113365",
+    "project_id": "sharedfirebase-2e22e",
+    "storage_bucket": "sharedfirebase-2e22e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12807113365:android:78c270a0e68bebe8e6a99c",
+        "android_client_info": {
+          "package_name": "com.example.peration_shade_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12807113365-u1bjj2v8agt3ah2o8e4urgu06ng4le0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASkSNULeSquH5z48OrHdBdP2V2uo9g_Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12807113365-u1bjj2v8agt3ah2o8e4urgu06ng4le0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
